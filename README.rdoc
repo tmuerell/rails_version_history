@@ -1,0 +1,3 @@
+= rails_version_history
+
+Rails gem for having a version history.
